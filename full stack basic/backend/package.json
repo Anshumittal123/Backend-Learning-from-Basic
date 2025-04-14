@@ -1,0 +1,19 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "node",
+    "chai"
+  ],
+  "author": "anshu mittal",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "expree": "^2.1.0"
+  }
+}
